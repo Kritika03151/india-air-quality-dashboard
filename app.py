@@ -1447,14 +1447,14 @@ with map_col1:
                 
                 map_merged_df["scaled_size"] = np.maximum(map_merged_df["avg_aqi"] / 10, 5)
 
-                fig_scatter_map = px.scatter_mapbox(
+                fig_scatter_map = px.scatter_map(
                     map_merged_df, lat="lat", lon="lon", size="scaled_size", size_max=25,
                     color="AQI Category", color_discrete_map=CATEGORY_COLORS_DARK,
                     hover_name="city", custom_data=['city', 'avg_aqi', 'dominant_pollutant', 'AQI Category'],
                     zoom=4.2, center={"lat": 23.5, "lon": 82.0}
                 )
                 scatter_map_layout_args = get_custom_plotly_layout_args(height=700, title_text=f"Average AQI Hotspots - {selected_month_name}, {year}")
-                scatter_map_layout_args['mapbox_style'] = "carto-darkmatter"
+                scatter_map_layout_args['map_style'] = "carto-darkmatter"
                 scatter_map_layout_args['margin'] = {"r":10,"t":60,"l":10,"b":10}
                 fig_scatter_map.update_traces(
                     hovertemplate="<b style='font-size:1.1em;'>%{customdata[0]}</b><br>Avg. AQI: %{customdata[1]:.1f} (%{customdata[3]})<br>Dominant Pollutant: %{customdata[2]}<extra></extra>"
