@@ -1,0 +1,246 @@
+city,level,index,pollutant,stations,date
+Agartala,Good,49.0,PM10,1,2026-08-30
+Agra,Satisfactory,75.0,"SO2, PM10, PM2.5",6,2026-08-30
+Ahmedabad,Satisfactory,70.0,PM10,7,2026-08-30
+Ahmednagar,Good,36.0,O3,1,2026-08-30
+Ajmer,Satisfactory,89.0,PM10,1,2026-08-30
+Akola,Satisfactory,56.0,PM10,1,2026-08-30
+Alwar,Moderate,110.0,PM10,1,2026-08-30
+Amaravati,Good,44.0,PM10,1,2026-08-30
+Ambala,Moderate,183.0,PM10,1,2026-08-30
+Ambernath,Satisfactory,93.0,PM10,1,2026-08-30
+Amravati,Good,37.0,PM10,1,2026-08-30
+Amritsar,Moderate,107.0,PM10,1,2026-08-30
+Angul,Good,49.0,CO,1,2026-08-30
+Ankleshwar,Good,48.0,O3,1,2026-08-30
+Araria,Good,38.0,O3,1,2026-08-30
+Asansol,Satisfactory,51.0,"CO, SO2",4,2026-08-30
+Aurangabad (Maharashtra),Good,48.0,"CO, PM10",3,2026-08-30
+Baddi,Moderate,166.0,PM10,1,2026-08-30
+Badlapur,Good,26.0,CO,1,2026-08-30
+Baghpat,Satisfactory,65.0,PM10,1,2026-08-30
+Bahadurgarh,Satisfactory,94.0,PM10,1,2026-08-30
+Balasore,Satisfactory,52.0,CO,1,2026-08-30
+Ballabgarh,Satisfactory,78.0,PM10,1,2026-08-30
+Banswara,Satisfactory,66.0,PM10,1,2026-08-30
+Baran,Satisfactory,61.0,PM10,1,2026-08-30
+Baraut,Poor,225.0,PM2.5,1,2026-08-30
+Barbil,Good,42.0,PM2.5,1,2026-08-30
+Bareilly,Satisfactory,59.0,"SO2, PM10",2,2026-08-30
+Baripada,Satisfactory,57.0,O3,1,2026-08-30
+Barmer,Satisfactory,82.0,PM10,1,2026-08-30
+Barrackpore,Good,50.0,CO,1,2026-08-30
+Bathinda,Satisfactory,74.0,PM2.5,1,2026-08-30
+Beed,Good,37.0,PM10,1,2026-08-30
+Begusarai,Satisfactory,72.0,PM10,1,2026-08-30
+Belapur,Good,45.0,PM10,1,2026-08-30
+Bengaluru,Satisfactory,66.0,PM10,8,2026-08-30
+Bhagalpur,Moderate,177.0,PM10,1,2026-08-30
+Bharatpur,Satisfactory,58.0,O3,1,2026-08-30
+Bhavnagar,Satisfactory,61.0,CO,1,2026-08-30
+Bhilai,Good,20.0,"CO, PM10, PM2.5",3,2026-08-30
+Bhilwara,Satisfactory,96.0,PM10,1,2026-08-30
+Bhiwadi,Moderate,123.0,PM10,2,2026-08-30
+Bhiwandi,Good,35.0,PM10,1,2026-08-30
+Bhiwani,Moderate,135.0,PM2.5,1,2026-08-30
+Bhopal,Satisfactory,68.0,PM10,2,2026-08-30
+Bhubaneswar,Good,41.0,CO,2,2026-08-30
+Bilaspur,Good,30.0,PM2.5,1,2026-08-30
+Bileipada,Satisfactory,53.0,PM10,1,2026-08-30
+Boisar,Good,42.0,PM10,1,2026-08-30
+Brajrajnagar,Good,45.0,CO,1,2026-08-30
+Bulandshahr,Moderate,168.0,PM10,1,2026-08-30
+Bundi,Satisfactory,75.0,PM10,1,2026-08-30
+Byasanagar,Satisfactory,59.0,PM10,1,2026-08-30
+Byrnihat (Assam),Satisfactory,88.0,PM2.5,1,2026-08-30
+Chamarajanagar,Good,46.0,PM10,1,2026-08-30
+Chandigarh,Satisfactory,77.0,PM10,2,2026-08-30
+Chandrapur,Satisfactory,69.0,PM10,2,2026-08-30
+Charkhi Dadri,Poor,228.0,PM2.5,1,2026-08-30
+Chennai,Satisfactory,71.0,PM10,7,2026-08-30
+Chhapra,Moderate,112.0,PM10,1,2026-08-30
+Chikkaballapur,Good,37.0,PM10,1,2026-08-30
+Chikkamagaluru,Good,39.0,PM10,1,2026-08-30
+Chittoor,Satisfactory,58.0,PM10,1,2026-08-30
+Chittorgarh,Satisfactory,67.0,PM10,1,2026-08-30
+Churu,Satisfactory,100.0,PM10,1,2026-08-30
+Cuttack,Good,34.0,PM10,1,2026-08-30
+Damoh,Satisfactory,51.0,SO2,1,2026-08-30
+Dausa,Moderate,130.0,PM10,1,2026-08-30
+Dehradun,Satisfactory,76.0,PM10,1,2026-08-30
+Delhi,Moderate,129.0,PM10,43,2026-08-30
+Dewas,Satisfactory,59.0,PM10,1,2026-08-30
+Dharuhera,Satisfactory,53.0,O3,1,2026-08-30
+Dharwad,Satisfactory,69.0,PM10,1,2026-08-30
+Dholpur,Satisfactory,52.0,PM10,1,2026-08-30
+Dhule,Good,24.0,PM10,1,2026-08-30
+Dombivli,Good,38.0,O3,1,2026-08-30
+Dungarpur,Satisfactory,51.0,CO,1,2026-08-30
+Durgapur,Satisfactory,55.0,"CO, PM10",2,2026-08-30
+Eloor,Satisfactory,64.0,PM10,1,2026-08-30
+Eluru,Satisfactory,54.0,PM2.5,1,2026-08-30
+Faridabad,Moderate,151.0,"PM10, PM2.5",3,2026-08-30
+Fatehpur Sikri,Satisfactory,56.0,PM10,1,2026-08-30
+Firozabad,Good,44.0,PM10,2,2026-08-30
+Gadag,Satisfactory,76.0,PM10,1,2026-08-30
+Gajraula,Moderate,131.0,PM10,1,2026-08-30
+Gandhinagar,Satisfactory,64.0,PM10,3,2026-08-30
+Gaya,Satisfactory,72.0,"PM10, PM2.5",3,2026-08-30
+Ghaziabad,Moderate,103.0,"PM10, PM2.5",6,2026-08-30
+Gorakhpur,Satisfactory,86.0,PM2.5,1,2026-08-30
+Greater Noida,Moderate,130.0,PM10,2,2026-08-30
+Gummidipoondi,Moderate,123.0,PM2.5,1,2026-08-30
+Guntur,Satisfactory,57.0,PM10,1,2026-08-30
+Gurugram,Satisfactory,86.0,PM10,4,2026-08-30
+Guwahati,Satisfactory,58.0,"CO, PM10, PM2.5",3,2026-08-30
+Gwalior,Satisfactory,69.0,"O3, CO, PM10",3,2026-08-30
+Hajipur,Satisfactory,56.0,PM10,1,2026-08-30
+Haldia,Good,30.0,PM10,1,2026-08-30
+Hanumangarh,Satisfactory,73.0,PM10,1,2026-08-30
+Hapur,Moderate,114.0,PM10,1,2026-08-30
+Hingoli,Satisfactory,63.0,PM10,1,2026-08-30
+Hisar,Satisfactory,99.0,PM10,1,2026-08-30
+Howrah,Satisfactory,55.0,"CO, NO2, PM2.5",5,2026-08-30
+Hubballi,Good,46.0,PM10,1,2026-08-30
+Hyderabad,Good,47.0,PM10,12,2026-08-30
+Indore,Satisfactory,94.0,PM10,5,2026-08-30
+Jabalpur,Satisfactory,56.0,"CO, NO2, PM10",3,2026-08-30
+Jaipur,Satisfactory,89.0,PM10,6,2026-08-30
+Jaisalmer,Moderate,119.0,PM10,1,2026-08-30
+Jalandhar,Satisfactory,53.0,PM2.5,1,2026-08-30
+Jalgaon,Good,45.0,PM10,1,2026-08-30
+Jalore,Satisfactory,74.0,PM10,1,2026-08-30
+Jhalawar,Satisfactory,54.0,PM10,1,2026-08-30
+Jhansi,Satisfactory,77.0,PM10,1,2026-08-30
+Jhunjhunu,Satisfactory,82.0,PM10,1,2026-08-30
+Jind,Moderate,107.0,PM2.5,1,2026-08-30
+Jodhpur,Satisfactory,67.0,"CO, PM10",5,2026-08-30
+Jorapokhar,Satisfactory,67.0,PM10,1,2026-08-30
+Kadapa,Good,50.0,PM10,1,2026-08-30
+Kaithal,Moderate,121.0,PM10,1,2026-08-30
+Kakinada,Good,46.0,NO2,1,2026-08-30
+Kalaburagi,Good,37.0,CO,1,2026-08-30
+Kalyan,Satisfactory,94.0,"PM10, PM2.5",2,2026-08-30
+Kannur,Satisfactory,78.0,PM10,1,2026-08-30
+Kanpur,Satisfactory,66.0,"PM10, PM2.5",3,2026-08-30
+Karauli,Satisfactory,61.0,PM10,1,2026-08-30
+Karnal,Satisfactory,70.0,PM10,1,2026-08-30
+Karwar,Good,14.0,PM10,1,2026-08-30
+Katihar,Satisfactory,93.0,CO,1,2026-08-30
+Katni,Satisfactory,66.0,PM10,1,2026-08-30
+Khanna,Moderate,121.0,PM2.5,1,2026-08-30
+Khora,Satisfactory,87.0,PM2.5,1,2026-08-30
+Khurja,Satisfactory,97.0,PM10,1,2026-08-30
+Kohima,Satisfactory,65.0,SO2,1,2026-08-30
+Kolhapur,Good,28.0,PM10,1,2026-08-30
+Kolkata,Good,45.0,"O3, NO2, PM10",7,2026-08-30
+Korba,Good,16.0,CO,1,2026-08-30
+Kota,Satisfactory,67.0,"PM10, PM2.5",3,2026-08-30
+Kunjemura,Good,24.0,PM10,1,2026-08-30
+Kurnool,Good,33.0,PM10,1,2026-08-30
+Kurukshetra,Moderate,107.0,PM10,1,2026-08-30
+Latur,Good,36.0,PM10,1,2026-08-30
+Lucknow,Good,49.0,"O3, CO, PM10",6,2026-08-30
+Machilipatnam,Satisfactory,53.0,PM10,1,2026-08-30
+Madikeri,Good,23.0,PM10,1,2026-08-30
+Mahad,Good,39.0,PM10,1,2026-08-30
+Maihar,Satisfactory,62.0,PM10,1,2026-08-30
+Malegaon,Satisfactory,79.0,PM10,1,2026-08-30
+Mandideep,Satisfactory,93.0,PM10,1,2026-08-30
+Mandi Gobindgarh,Satisfactory,94.0,PM10,1,2026-08-30
+Mandikhera,Satisfactory,98.0,PM10,1,2026-08-30
+Manesar,Moderate,121.0,PM2.5,1,2026-08-30
+Mathura,Moderate,108.0,PM10,1,2026-08-30
+Meerut,Moderate,124.0,PM10,3,2026-08-30
+Mehsana,Satisfactory,60.0,PM10,1,2026-08-30
+Milupara,Good,39.0,O3,1,2026-08-30
+Mira-Bhayandar,Good,21.0,PM10,1,2026-08-30
+Moradabad,Satisfactory,88.0,"PM10, PM2.5",6,2026-08-30
+Mumbai,Good,41.0,"NO2, PM10",20,2026-08-30
+Muzaffarnagar,Moderate,120.0,PM10,1,2026-08-30
+Muzaffarpur,Good,49.0,"O3, PM10",2,2026-08-30
+Mysuru,Satisfactory,73.0,O3,1,2026-08-30
+Nagaon,Satisfactory,54.0,PM2.5,1,2026-08-30
+Nagaur,Satisfactory,95.0,PM10,1,2026-08-30
+Nagpur,Good,41.0,PM10,4,2026-08-30
+Naharlagun,Good,31.0,PM10,1,2026-08-30
+Nalbari,Satisfactory,78.0,PM2.5,1,2026-08-30
+Nanded,Good,38.0,PM10,1,2026-08-30
+Nandesari,Satisfactory,52.0,PM10,1,2026-08-30
+Narnaul,Moderate,114.0,PM10,1,2026-08-30
+Nashik,Good,32.0,"CO, PM10",4,2026-08-30
+Navi Mumbai,Good,36.0,PM10,6,2026-08-30
+Nayagarh,Satisfactory,91.0,PM10,1,2026-08-30
+Nellore,Satisfactory,57.0,PM10,1,2026-08-30
+Noida,Moderate,154.0,PM10,4,2026-08-30
+Pali,Moderate,108.0,PM10,1,2026-08-30
+Palwal,Satisfactory,68.0,CO,1,2026-08-30
+Pampore,Satisfactory,72.0,PM10,1,2026-08-30
+Panchgaon,Moderate,102.0,CO,1,2026-08-30
+Panchkula,Good,48.0,PM2.5,1,2026-08-30
+Panipat,Moderate,103.0,PM2.5,1,2026-08-30
+Parbhani,Satisfactory,57.0,O3,1,2026-08-30
+Patiala,Satisfactory,67.0,PM10,1,2026-08-30
+Patna,Satisfactory,61.0,"O3, PM10",4,2026-08-30
+Pimpri-Chinchwad,Good,48.0,"CO, PM10",7,2026-08-30
+Pithampur,Moderate,101.0,PM10,1,2026-08-30
+Pratapgarh,Satisfactory,77.0,PM10,1,2026-08-30
+Prayagraj,Satisfactory,52.0,"SO2, PM10",3,2026-08-30
+Puducherry,Good,41.0,O3,1,2026-08-30
+Pune,Satisfactory,53.0,"CO, PM10",6,2026-08-30
+Raebareli,Satisfactory,71.0,PM10,2,2026-08-30
+Raipur,Good,33.0,"CO, PM10",4,2026-08-30
+Rajamahendravaram,Good,48.0,PM10,1,2026-08-30
+Rajkot,Good,42.0,PM10,1,2026-08-30
+Rajsamand,Satisfactory,74.0,PM10,1,2026-08-30
+Ramanagara,Good,43.0,PM10,1,2026-08-30
+Rishikesh,Good,37.0,CO,1,2026-08-30
+Rohtak,Satisfactory,77.0,PM10,1,2026-08-30
+Rourkela,Good,37.0,PM10,3,2026-08-30
+Rupnagar,Satisfactory,62.0,CO,1,2026-08-30
+Sagar,Satisfactory,76.0,PM10,1,2026-08-30
+Saharsa,Moderate,176.0,PM10,1,2026-08-30
+Samastipur,Good,44.0,PM2.5,1,2026-08-30
+Sangli,Good,31.0,PM10,1,2026-08-30
+Satara,Satisfactory,53.0,PM10,1,2026-08-30
+Satna,Satisfactory,70.0,PM10,1,2026-08-30
+Sawai Madhopur,Satisfactory,92.0,PM10,1,2026-08-30
+Shamli,Moderate,122.0,PM10,1,2026-08-30
+Shillong,Good,23.0,SO2,1,2026-08-30
+Shivamogga,Good,42.0,O3,1,2026-08-30
+Sikar,Moderate,129.0,PM10,1,2026-08-30
+Silchar,Good,44.0,PM10,1,2026-08-30
+Siliguri,Good,42.0,PM10,1,2026-08-30
+Sirohi,Satisfactory,68.0,PM10,1,2026-08-30
+Sirsa,Moderate,110.0,PM10,1,2026-08-30
+Sivasagar,Good,47.0,O3,1,2026-08-30
+Siwan,Moderate,105.0,PM10,1,2026-08-30
+Solapur,Good,29.0,PM10,2,2026-08-30
+Sri Ganganagar,Moderate,136.0,PM10,1,2026-08-30
+Srikakulam,Satisfactory,74.0,CO,1,2026-08-30
+Srinagar,Satisfactory,51.0,PM10,2,2026-08-30
+Surat,Good,49.0,PM10,2,2026-08-30
+Talcher,Satisfactory,71.0,NO2,1,2026-08-30
+Tensa,Good,37.0,CO,1,2026-08-30
+Thane,Good,38.0,PM10,2,2026-08-30
+Thiruvananthapuram,Good,48.0,PM10,2,2026-08-30
+Thoothukudi,Satisfactory,65.0,PM10,1,2026-08-30
+Thrissur,Satisfactory,59.0,PM2.5,1,2026-08-30
+Tirumala,Good,42.0,NO2,1,2026-08-30
+Tirupati,Satisfactory,77.0,PM10,1,2026-08-30
+Tonk,Moderate,115.0,PM10,1,2026-08-30
+Tumidih,Good,24.0,NO2,1,2026-08-30
+Udaipur,Satisfactory,76.0,PM10,1,2026-08-30
+Ujjain,Satisfactory,54.0,O3,1,2026-08-30
+Ulhasnagar,Good,48.0,PM10,2,2026-08-30
+Vadodara,Satisfactory,75.0,CO,1,2026-08-30
+Vapi,Good,41.0,PM2.5,1,2026-08-30
+Varanasi,Good,41.0,PM10,4,2026-08-30
+Vatva,Satisfactory,91.0,PM10,1,2026-08-30
+Vijayapura,Good,43.0,PM10,1,2026-08-30
+Vijayawada,Satisfactory,58.0,PM10,3,2026-08-30
+Virar,Good,30.0,PM10,1,2026-08-30
+Visakhapatnam,Satisfactory,78.0,PM10,1,2026-08-30
+Vrindavan,Satisfactory,62.0,PM2.5,1,2026-08-30
+Yadgir,Good,31.0,PM10,1,2026-08-30
+Yamuna Nagar,Moderate,102.0,PM2.5,1,2026-08-30

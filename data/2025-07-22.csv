@@ -1,0 +1,221 @@
+city,level,index,pollutant,stations,date
+Agartala,Moderate,123.0,PM10,1,2025-07-22
+Agra,Satisfactory,58.0,"PM10, PM2.5",5,2025-07-22
+Ahmedabad,Satisfactory,57.0,PM10,4,2025-07-22
+Ahmednagar,Good,28.0,PM2.5,1,2025-07-22
+Aizawl,Good,15.0,PM10,1,2025-07-22
+Ajmer,Satisfactory,70.0,PM10,1,2025-07-22
+Akola,Good,38.0,PM10,1,2025-07-22
+Alwar,Satisfactory,70.0,CO,1,2025-07-22
+Amaravati,Good,29.0,NO2,1,2025-07-22
+Amravati,Satisfactory,53.0,PM10,1,2025-07-22
+Amritsar,Good,32.0,O3,1,2025-07-22
+Anantapur,Satisfactory,62.0,PM2.5,1,2025-07-22
+Angul,Satisfactory,71.0,PM10,1,2025-07-22
+Ankleshwar,Satisfactory,65.0,O3,1,2025-07-22
+Ariyalur,Good,45.0,PM10,1,2025-07-22
+Arrah,Satisfactory,71.0,PM10,1,2025-07-22
+Asansol,Satisfactory,55.0,PM10,4,2025-07-22
+Aurangabad (Bihar),Good,50.0,PM10,1,2025-07-22
+Aurangabad (Maharashtra),Good,39.0,"O3, PM10",2,2025-07-22
+Baddi,Satisfactory,100.0,PM10,1,2025-07-22
+Badlapur,Satisfactory,51.0,PM10,1,2025-07-22
+Bagalkot,Good,49.0,PM10,1,2025-07-22
+Baghpat,Satisfactory,66.0,PM10,1,2025-07-22
+Balasore,Satisfactory,52.0,CO,1,2025-07-22
+Banswara,Good,49.0,PM10,1,2025-07-22
+Baran,Moderate,181.0,PM10,1,2025-07-22
+Barbil,Good,49.0,PM10,1,2025-07-22
+Bareilly,Satisfactory,91.0,"SO2, PM10",2,2025-07-22
+Baripada,Good,46.0,PM10,1,2025-07-22
+Barmer,Satisfactory,73.0,PM10,1,2025-07-22
+Barrackpore,Good,41.0,PM10,1,2025-07-22
+Bathinda,Good,50.0,CO,1,2025-07-22
+Belapur,Good,28.0,PM10,1,2025-07-22
+Bengaluru,Good,40.0,"PM10, PM2.5",7,2025-07-22
+Bettiah,Moderate,104.0,CO,1,2025-07-22
+Bhagalpur,Moderate,115.0,"PM10, PM2.5",2,2025-07-22
+Bharatpur,Satisfactory,52.0,PM10,1,2025-07-22
+Bhilai,Satisfactory,62.0,PM10,2,2025-07-22
+Bhilwara,Satisfactory,52.0,PM10,1,2025-07-22
+Bhiwadi,Satisfactory,88.0,PM10,2,2025-07-22
+Bhiwandi,Satisfactory,61.0,PM10,1,2025-07-22
+Bhopal,Good,50.0,PM10,3,2025-07-22
+Bhubaneswar,Good,45.0,"CO, PM10",2,2025-07-22
+Bikaner,Satisfactory,87.0,PM10,1,2025-07-22
+Bileipada,Satisfactory,69.0,PM10,1,2025-07-22
+Brajrajnagar,Satisfactory,74.0,CO,1,2025-07-22
+Bulandshahr,Satisfactory,75.0,PM10,1,2025-07-22
+Bundi,Satisfactory,82.0,PM10,1,2025-07-22
+Buxar,Satisfactory,93.0,PM10,1,2025-07-22
+Byasanagar,Satisfactory,66.0,CO,1,2025-07-22
+Chamarajanagar,Good,41.0,PM10,1,2025-07-22
+Chandigarh,Satisfactory,53.0,"O3, CO",3,2025-07-22
+Chandrapur,Satisfactory,51.0,CO,1,2025-07-22
+Chengalpattu,Satisfactory,56.0,PM10,1,2025-07-22
+Chennai,Satisfactory,66.0,"CO, PM10",7,2025-07-22
+Chhal,Good,31.0,PM10,1,2025-07-22
+Chikkaballapur,Good,28.0,O3,1,2025-07-22
+Chittoor,Satisfactory,53.0,PM2.5,1,2025-07-22
+Chittorgarh,Good,47.0,CO,1,2025-07-22
+Churu,Satisfactory,84.0,PM10,1,2025-07-22
+Coimbatore,Good,20.0,"SO2, PM2.5",2,2025-07-22
+Cuddalore,Good,21.0,"PM10, PM2.5",2,2025-07-22
+Cuttack,Good,47.0,O3,1,2025-07-22
+Damoh,Satisfactory,54.0,PM10,1,2025-07-22
+Dausa,Satisfactory,96.0,PM10,1,2025-07-22
+Davanagere,Good,26.0,O3,1,2025-07-22
+Dehradun,Good,30.0,PM10,1,2025-07-22
+Delhi,Satisfactory,88.0,"PM10, PM2.5",39,2025-07-22
+Dewas,Good,38.0,NO2,1,2025-07-22
+Dhanbad,Moderate,115.0,PM10,1,2025-07-22
+Dharwad,Satisfactory,62.0,PM10,1,2025-07-22
+Dholpur,Poor,217.0,PM2.5,1,2025-07-22
+Dhule,Satisfactory,59.0,PM10,1,2025-07-22
+Dindigul,Good,32.0,PM10,1,2025-07-22
+Dungarpur,Satisfactory,51.0,PM10,1,2025-07-22
+Durgapur,Satisfactory,86.0,PM10,3,2025-07-22
+Eloor,Satisfactory,77.0,CO,1,2025-07-22
+Firozabad,Good,44.0,PM10,2,2025-07-22
+Gadag,Good,39.0,CO,1,2025-07-22
+Gandhinagar,Good,47.0,PM10,1,2025-07-22
+Gaya,Moderate,101.0,"PM10, PM2.5",2,2025-07-22
+Ghaziabad,Satisfactory,100.0,"PM10, PM2.5",4,2025-07-22
+Gorakhpur,Satisfactory,58.0,PM10,1,2025-07-22
+Greater Noida,Moderate,108.0,PM10,2,2025-07-22
+Gummidipoondi,Satisfactory,96.0,PM2.5,1,2025-07-22
+Guwahati,Good,38.0,"CO, PM10, PM2.5",4,2025-07-22
+Gwalior,Satisfactory,66.0,PM10,2,2025-07-22
+Hajipur,Satisfactory,92.0,PM2.5,1,2025-07-22
+Haldia,Satisfactory,51.0,PM10,1,2025-07-22
+Hanumangarh,Good,47.0,PM10,1,2025-07-22
+Hapur,Satisfactory,67.0,PM10,1,2025-07-22
+Hassan,Good,45.0,PM10,1,2025-07-22
+Haveri,Good,46.0,PM10,1,2025-07-22
+Hosur,Satisfactory,57.0,PM10,1,2025-07-22
+Howrah,Satisfactory,66.0,"NO2, PM10",5,2025-07-22
+Hubballi,Good,42.0,PM10,1,2025-07-22
+Hyderabad,Satisfactory,65.0,"PM10, PM2.5",12,2025-07-22
+Indore,Satisfactory,92.0,NO2,2,2025-07-22
+Jabalpur,Good,43.0,"CO, PM10",3,2025-07-22
+Jaipur,Satisfactory,88.0,"NO2, PM10",5,2025-07-22
+Jaisalmer,Satisfactory,94.0,PM10,1,2025-07-22
+Jalandhar,Good,33.0,PM10,1,2025-07-22
+Jalgaon,Good,40.0,PM10,1,2025-07-22
+Jalna,Good,49.0,PM10,1,2025-07-22
+Jalore,Satisfactory,71.0,PM10,1,2025-07-22
+Jhalawar,Satisfactory,52.0,PM10,1,2025-07-22
+Jhansi,Satisfactory,73.0,PM10,1,2025-07-22
+Jhunjhunu,Satisfactory,81.0,PM10,1,2025-07-22
+Jodhpur,Satisfactory,76.0,PM10,5,2025-07-22
+Kadapa,Satisfactory,74.0,PM2.5,1,2025-07-22
+Kalaburagi,Good,34.0,CO,1,2025-07-22
+Kalyan,Good,37.0,PM10,1,2025-07-22
+Kanchipuram,Satisfactory,75.0,PM10,1,2025-07-22
+Kannur,Satisfactory,54.0,PM10,1,2025-07-22
+Kanpur,Satisfactory,64.0,"O3, PM10, PM2.5",3,2025-07-22
+Karauli,Good,48.0,CO,1,2025-07-22
+Kashipur,Satisfactory,54.0,PM10,1,2025-07-22
+Katni,Satisfactory,87.0,PM10,1,2025-07-22
+Keonjhar,Good,46.0,PM10,1,2025-07-22
+Khanna,Good,44.0,PM10,1,2025-07-22
+Khurja,Satisfactory,85.0,PM10,1,2025-07-22
+Kohima,Satisfactory,65.0,SO2,1,2025-07-22
+Kolhapur,Good,45.0,PM10,1,2025-07-22
+Kolkata,Good,45.0,"CO, NO2",6,2025-07-22
+Kollam,Good,30.0,O3,1,2025-07-22
+Korba,Satisfactory,77.0,"NO2, PM10",2,2025-07-22
+Kota,Moderate,130.0,"PM10, PM2.5",3,2025-07-22
+Latur,Good,49.0,CO,1,2025-07-22
+Lucknow,Satisfactory,66.0,"CO, PM10",6,2025-07-22
+Ludhiana,Satisfactory,54.0,PM10,1,2025-07-22
+Madikeri,Good,21.0,PM10,1,2025-07-22
+Madurai,Good,44.0,PM10,1,2025-07-22
+Mahad,Satisfactory,53.0,PM10,1,2025-07-22
+Maihar,Good,44.0,PM10,1,2025-07-22
+Malegaon,Satisfactory,52.0,PM10,1,2025-07-22
+Mandi Gobindgarh,Satisfactory,79.0,PM10,1,2025-07-22
+Mandideep,Satisfactory,55.0,PM10,1,2025-07-22
+Mangalore,Good,46.0,PM10,1,2025-07-22
+Manguraha,Good,31.0,PM10,1,2025-07-22
+Meerut,Satisfactory,59.0,PM10,3,2025-07-22
+Moradabad,Satisfactory,82.0,"PM10, PM2.5",6,2025-07-22
+Motihari,Good,41.0,PM2.5,1,2025-07-22
+Mumbai,Good,41.0,"CO, PM10, PM2.5",17,2025-07-22
+Munger,Satisfactory,55.0,PM2.5,1,2025-07-22
+Muzaffarnagar,Satisfactory,51.0,PM10,1,2025-07-22
+Muzaffarpur,Satisfactory,71.0,"O3, PM10",2,2025-07-22
+Mysuru,Good,33.0,PM10,1,2025-07-22
+Nagaon,Satisfactory,58.0,PM10,1,2025-07-22
+Nagapattinam,Good,35.0,O3,1,2025-07-22
+Nagaur,Satisfactory,70.0,PM10,1,2025-07-22
+Nagpur,Good,46.0,"CO, PM10",4,2025-07-22
+Nalbari,Satisfactory,51.0,PM2.5,1,2025-07-22
+Nandesari,Moderate,176.0,PM2.5,1,2025-07-22
+Nashik,Good,43.0,PM10,4,2025-07-22
+Navi Mumbai,Good,48.0,"NO2, PM10",3,2025-07-22
+Nayagarh,Good,48.0,PM10,1,2025-07-22
+Noida,Satisfactory,96.0,"PM10, PM2.5",3,2025-07-22
+Pali,Moderate,108.0,PM2.5,1,2025-07-22
+Palkalaiperur,Good,42.0,PM10,1,2025-07-22
+Panchgaon,Good,35.0,O3,1,2025-07-22
+Patiala,Good,33.0,PM10,1,2025-07-22
+Patna,Satisfactory,88.0,"PM10, PM2.5",6,2025-07-22
+Perundurai,Good,34.0,CO,1,2025-07-22
+Pimpri-Chinchwad,Satisfactory,51.0,PM10,1,2025-07-22
+Pithampur,Satisfactory,65.0,PM10,1,2025-07-22
+Pratapgarh,Good,47.0,PM10,1,2025-07-22
+Prayagraj,Good,45.0,"SO2, PM10",3,2025-07-22
+Puducherry,Good,32.0,O3,1,2025-07-22
+Pudukottai,Good,27.0,PM10,1,2025-07-22
+Pune,Good,46.0,"O3, CO",5,2025-07-22
+Purnia,Satisfactory,71.0,PM10,1,2025-07-22
+Raipur,Satisfactory,61.0,PM10,4,2025-07-22
+Rairangpur,Satisfactory,99.0,PM10,1,2025-07-22
+Rajamahendravaram,Good,28.0,PM10,1,2025-07-22
+Rajgir,Moderate,130.0,PM10,1,2025-07-22
+Rajsamand,Satisfactory,82.0,O3,1,2025-07-22
+Ramanagara,Good,35.0,CO,1,2025-07-22
+Ramanathapuram,Good,32.0,PM10,1,2025-07-22
+Ratlam,Satisfactory,52.0,PM10,1,2025-07-22
+Rourkela,Good,48.0,PM10,2,2025-07-22
+Rupnagar,Satisfactory,70.0,PM10,1,2025-07-22
+Sagar,Satisfactory,78.0,CO,1,2025-07-22
+Salem,Good,48.0,SO2,1,2025-07-22
+Sasaram,Satisfactory,54.0,CO,1,2025-07-22
+Sawai Madhopur,Satisfactory,74.0,PM10,1,2025-07-22
+Shillong,Good,15.0,PM10,1,2025-07-22
+Shivamogga,Good,43.0,O3,1,2025-07-22
+Sikar,Satisfactory,53.0,PM10,1,2025-07-22
+Silchar,Good,49.0,PM10,1,2025-07-22
+Siliguri,Satisfactory,61.0,PM10,1,2025-07-22
+Singrauli,Satisfactory,87.0,PM10,1,2025-07-22
+Sirohi,Satisfactory,52.0,PM10,1,2025-07-22
+Sivasagar,Good,29.0,PM2.5,1,2025-07-22
+Sri Ganganagar,Moderate,105.0,PM2.5,1,2025-07-22
+Suakati,Good,43.0,PM10,1,2025-07-22
+Surat,Moderate,142.0,PM10,1,2025-07-22
+Talcher,Satisfactory,77.0,CO,1,2025-07-22
+Tensa,Good,35.0,PM10,1,2025-07-22
+Thane,Good,43.0,PM10,2,2025-07-22
+Thanjavur,Good,32.0,PM2.5,1,2025-07-22
+Thiruvananthapuram,Good,41.0,"CO, PM10",2,2025-07-22
+Thoothukudi,Good,46.0,PM10,1,2025-07-22
+Thrissur,Good,44.0,PM10,1,2025-07-22
+Tiruchirappalli,Satisfactory,52.0,PM2.5,1,2025-07-22
+Tirumala,Good,30.0,CO,1,2025-07-22
+Tirunelveli,Good,42.0,CO,1,2025-07-22
+Tirupur,Good,32.0,PM10,1,2025-07-22
+Tonk,Satisfactory,86.0,PM10,1,2025-07-22
+Tumakuru,Good,27.0,CO,1,2025-07-22
+Udaipur,Satisfactory,54.0,PM10,1,2025-07-22
+Vapi,Satisfactory,72.0,PM10,1,2025-07-22
+Varanasi,Satisfactory,80.0,"PM10, PM2.5",4,2025-07-22
+Vatva,Satisfactory,79.0,PM10,1,2025-07-22
+Vellore,Good,43.0,O3,1,2025-07-22
+Vijayapura,Good,47.0,PM10,1,2025-07-22
+Vijayawada,Satisfactory,53.0,"PM10, PM2.5",3,2025-07-22
+Virar,Good,33.0,PM10,1,2025-07-22
+Virudhunagar,Good,35.0,PM10,1,2025-07-22
+Vrindavan,Satisfactory,58.0,PM10,1,2025-07-22
+Yadgir,Good,37.0,NO2,1,2025-07-22
