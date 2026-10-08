@@ -1,0 +1,60 @@
+name: Fetch CPCB AQI Bulletin
+
+on:
+  schedule:
+    - cron: '15 12 * * *'
+  workflow_dispatch:
+    inputs:
+      start_date:
+        description: 'Backfill start date (YYYY-MM-DD). Leave blank for today.'
+        required: false
+        default: ''
+      end_date:
+        description: 'Backfill end date (YYYY-MM-DD). Leave blank for start date.'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  fetch_and_commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Java and Python dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y default-jre
+          python -m pip install --upgrade pip
+          python -m pip install pandas tabula-py
+
+      - name: Fetch and clean CPCB bulletin(s)
+        env:
+          START_DATE: ${{ inputs.start_date }}
+          END_DATE: ${{ inputs.end_date }}
+        run: python fetch_cpcb_aqi.py
+
+      - name: Commit new bulletin CSV files
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if compgen -G "data/*.csv" > /dev/null; then
+            git add data/*.csv
+            git diff --cached --quiet || git commit -m "Update CPCB AQI bulletin data"
+            git push
+          else
+            echo "No CSV files were created."
+          fi
