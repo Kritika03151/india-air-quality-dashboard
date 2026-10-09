@@ -5,7 +5,7 @@ import os
 import plotly.express as px
 import plotly.graph_objects as go
 import plotly.io as pio
-from sklearn.linear_model import LinearRegressionf
+from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import PolynomialFeatures
 from io import StringIO
 import requests
