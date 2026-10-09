@@ -457,7 +457,6 @@ def format_number(num):
 
 def get_category(aqi_val):
     """Map AQI value to category"""
-    import pandas as pd
 
     if pd.isna(aqi_val):
         return "Unknown"
