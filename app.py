@@ -454,8 +454,11 @@ def format_number(num):
         return f"{num/1000:.1f}K"
     return str(num)
 
+
 def get_category(aqi_val):
     """Map AQI value to category"""
+    import pandas as pd
+
     if pd.isna(aqi_val):
         return "Unknown"
     if aqi_val <= 50:
@@ -470,6 +473,7 @@ def get_category(aqi_val):
         return "Very Poor"
     else:
         return "Severe"
+
 
 # ------------------- Title Header -------------------
 st.markdown("""
