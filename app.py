@@ -474,7 +474,7 @@ def get_category(aqi_val):
 # ------------------- Title Header -------------------
 st.markdown("""
 <div class="gradient-header">
-    <h1>🌬️ IIT KGP AIR QUALITY DASHBOARD</h1>
+    <h1>🌬️ INDIA AIR QUALITY DASHBOARD</h1>
     <p style="color: #B0B0B0; font-size: 1.1rem; max-width: 800px; margin: 0 auto;">
         Real-time Air Quality Monitoring and Predictive Analysis for Indian Cities
     </p>
@@ -1524,7 +1524,7 @@ if export_data_list:
 # ======================
 st.markdown(f"""
 <div class="footer-container">
-    <h3>IIT KGP Air Quality Dashboard</h3>
+    <h3>INDIA Air Quality Dashboard</h3>
     <div class="footer-info">
       <div>
         <p class="label">Data Source</p>
