@@ -1,11 +1,11 @@
 import streamlit as st
-import pandas as pd
+import pandas as pdf
 import numpy as np
 import os
 import plotly.express as px
 import plotly.graph_objects as go
 import plotly.io as pio
-from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import LinearRegressionf
 from sklearn.preprocessing import PolynomialFeatures
 from io import StringIO
 import requests
@@ -1519,36 +1519,61 @@ if export_data_list:
         
         st.markdown("</div>", unsafe_allow_html=True)
 
+
 # ======================
 # =====  FOOTER  =======
 # ======================
 st.markdown(f"""
 <div class="footer-container">
     <h3>INDIA Air Quality Dashboard</h3>
+
     <div class="footer-info">
       <div>
         <p class="label">Data Source</p>
         <p class="value">Central Pollution Control Board (CPCB)</p>
       </div>
+
       <div>
         <p class="label">Principal Investigator</p>
-        <p class="value"><a href="https://www.mustlab.in/faculty" target="_blank">Prof. Arkopal Kishore Goswami</a></p>
+        <p class="value">
+          <a href="https://www.mustlab.in/faculty" target="_blank">
+            Prof. Sheetal Patil
+          </a>
+        </p>
       </div>
+
       <div>
         <p class="label">Developed By</p>
-        <p class="value"><a href="https://sites.google.com/view/kapil-lab/home" target="_blank">Kapil Meena</a>, PhD Student</p>
+        <p class="value">
+          <a href="https://github.com/Kritika03151" target="_blank">
+            Kritika Singh
+          </a>, CE
+        </p>
       </div>
+
       <div>
         <p class="label">Last Updated</p>
         <p class="value">{data_last_updated.strftime('%Y-%m-%d %H:%M') if data_last_updated else "N/A"}</p>
       </div>
     </div>
+
     <div class="footer-links">
-      <a href="https://github.com/kapil2020/india-air-quality-dashboard" target="_blank">
-        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
+      <a href="https://github.com/Kritika03151/india-air-quality-dashboard"
+         target="_blank">
+        <svg xmlns="http://www.w3.org/2000/svg"
+             width="20" height="20" viewBox="0 0 24 24"
+             fill="none" stroke="currentColor" stroke-width="2"
+             stroke-linecap="round" stroke-linejoin="round">
+          <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+        </svg>
         View on GitHub
       </a>
     </div>
-    <p class="copyright">© {pd.to_datetime("today").year} IIT Kharagpur | For Research and Educational Purposes</p>
+
+    <p class="copyright">
+      © {pd.to_datetime("today").year} India Air Quality Dashboard |
+      Developed by Ritika Singh, CE |
+      For Research and Educational Purposes
+    </p>
 </div>
 """, unsafe_allow_html=True)
